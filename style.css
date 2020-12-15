@@ -1,0 +1,152 @@
+body{
+    background-color: #f0f2f5;
+    padding: 0px;
+    margin: 0px;
+}
+
+.starting{
+    background-color: #f0f2f5;
+}
+
+form{
+    
+    background-color: rgb(248, 248, 248);
+     margin: 100px 250px 10% 60%;
+     margin-inline-end: auto;
+    width: 370px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 20px lightgray;
+    position: relative;
+
+}
+input{
+    padding: 15px;
+    width: 82%;
+    margin-top: 3%;
+    margin-left: 4%;
+    margin-right: 4%;
+    font-size: 18px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: 1px solid rgb(209, 209, 209);
+    
+}
+input:focus{
+    border-color: #1877f2;
+}
+.btn1{
+    height: 45px;
+    width: 90%;
+    margin: 20px;
+    background-color: #1877f2;
+    border-radius: 6px;
+    color: snow;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+}
+.btn1:hover{
+    background-color: rgb(16, 16, 190);
+}
+.btn2{
+    height: 50px;
+    margin: 5% 23% 5% 23%;
+    background-color: #42b72a;
+    border-radius: 6px;
+    color: snow;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+}
+.btn2:hover{
+    background-color: rgb(15, 117, 15);
+}
+.forgotpass {
+    display: block;
+    padding-left: 30%;
+    color: #1877f2;
+    text-decoration: none;
+}
+.forgotpass:hover{
+    text-decoration: underline;
+}
+hr{
+    max-width: 85%;
+}
+.p1{
+    font-size: 70px;
+    color: #1877f2;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 11.5%;
+    position: absolute;
+    margin-top: 9%;
+}
+.p2{
+    max-width: 40%;
+    text-align: center;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: -270px;
+    font-size: 25px;
+    text-align: justify;
+}
+
+
+
+
+
+#footer_wrapper
+{
+ width:100%;
+ clear:both;
+ float:left;
+ margin-top:30px;
+ min-width:995px;
+ background-color:white;
+ text-align:left;
+}
+#footer1
+{
+ width:980px;
+ margin:0px auto;
+ padding:0px;
+ border-bottom:1px solid #E6E6E6;
+ height:30px;
+ line-height:30px;
+ font-size:12px;
+ color:#848484;
+}
+#footer1 a
+{
+ color:#365899;
+ display:inline;
+ margin-left:10px;
+ text-decoration:none;
+}
+#footer1 a:hover
+{
+ text-decoration:underline;
+}
+#footer2
+{
+ width:980px;
+ margin:0px auto;
+ padding:0px;
+ font-size:12px;
+ color:#848484;
+}
+#footer2 a
+{
+ color:#365899;
+ display:inline-block;
+ margin:5px;
+ margin-left:0px;
+ min-width:80px;
+ text-decoration:none;
+}
+#footer2 a:hover
+{
+ text-decoration:underline;
+}
